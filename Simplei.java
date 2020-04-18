@@ -18,7 +18,7 @@ public class Simplei
             SimpleIntrest = Principal*time*Intrest/100 ;
             
             System.out.println(SimpleIntrest);
-            //modified
+            
 
             sc.close();
 
